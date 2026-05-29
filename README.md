@@ -64,6 +64,6 @@ Hi! I'm **Abhishek R**, a passionate **System Engineer** with **2 years** of exp
 
 ### 💬 Let's collaborate on amazing projects!
 
-**Made with ❤️ by Abhishek R**
+**Made by Abhishek R**
 
 </div>
