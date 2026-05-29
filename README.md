@@ -39,15 +39,12 @@ Hi! I'm **Abhishek R**, a passionate **System Engineer** with **2 years** of exp
 
 ---
 
-## 📊 GitHub Activity
+## 🏆 Achievements
 
-<div align="center">
-
-| Contributions | Experience | Projects |
-|---|---|---|
-| 63+ | 2 Years | Full Stack |
-
-</div>
+- 💻 **2+ Years** as a System Engineer
+- 🚀 **Full Stack** Developer
+- 📚 Expertise in **Python & Django**
+- 🎯 Built multiple **responsive web applications**
 
 ---
 
@@ -67,6 +64,6 @@ Hi! I'm **Abhishek R**, a passionate **System Engineer** with **2 years** of exp
 
 ### 💬 Let's collaborate on amazing projects!
 
-**Made by Abhishek R**
+**Made with ❤️ by Abhishek R**
 
 </div>
