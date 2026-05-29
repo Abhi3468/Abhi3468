@@ -43,9 +43,9 @@ Hi! I'm **Abhishek R**, a passionate **System Engineer** with **2 years** of exp
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Abhi3468&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true)
-
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhi3468&theme=tokyonight&layout=compact)
+| Contributions | Experience | Projects |
+|---|---|---|
+| 63+ | 2 Years | Full Stack |
 
 </div>
 
@@ -67,6 +67,6 @@ Hi! I'm **Abhishek R**, a passionate **System Engineer** with **2 years** of exp
 
 ### 💬 Let's collaborate on amazing projects!
 
-**Made with ❤️ by Abhishek R**
+**Made by Abhishek R**
 
 </div>
