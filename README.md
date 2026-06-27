@@ -2,7 +2,26 @@
 
 ![](https://komarev.com/ghpvc/?username=Abhi3468&label=Profile%20views&color=0e75b6&style=flat)
 
-# 👋 Welcome to My GitHub!
+# Hi 👋
+
+I'm Abhishek
+
+Software Engineer at TCS
+
+Python Backend Developer
+
+Django
+
+DRF
+
+PostgreSQL
+
+REST APIs
+
+Docker
+
+AWS (Learning)
+
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&lines=I'm+Abhishek+R;System+Engineer;Full+Stack+Developer;Building+Digital+Solutions" alt="Typing SVG" />
 
