@@ -6,8 +6,6 @@
 
 ### Software Engineer @ Tata Consultancy Services (TCS)
 
-### Backend Developer | Python & Django
-
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&color=00B4D8&center=true&vCenter=true&width=700&lines=Software+Engineer+at+TCS;Python+Backend+Developer;Building+Projects+with+Django;Learning+Backend+Engineering+Everyday" alt="Typing SVG" />
 
 </div>
