@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=Abhi3468&label=Profile%20Views&color=0e75b6&style=flat)
 
-# Hi 👋, I'm Abhishek R
+# Hi , I'm Abhishek R
 
 ### Software Engineer @ Tata Consultancy Services (TCS)
 
