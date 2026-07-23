@@ -102,9 +102,11 @@ I enjoy learning by building projects, solving backend problems, and continuousl
 
 🔗 Repository
 
-https://github.com/Abhi3468/DKG_Bank_Full_Stack_Django
 
----
+<a href="https://github.com/Abhi3468/DKG_Bank_Full_Stack_Django">
+<img src="https://img.shields.io/badge/LINK-000000?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
 
 ## ✅ Todoify
 
@@ -118,9 +120,10 @@ A modern Django Task Management Application.
 
 🔗 Repository
 
-https://github.com/Abhi3468/Todo
+<a href="https://github.com/Abhi3468/Todo">
+<img src="https://img.shields.io/badge/LINK-000000?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
 
----
 
 # 💼 Professional Experience
 
