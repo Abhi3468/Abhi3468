@@ -366,12 +366,12 @@ def build_svg(dark_mode=True):
 
     info_rows = [
         ("Subject", "Abhishek R"),
-        ("Role", "System Engineer"),
+        ("Role", "System Engineer at TCS"),
         ("Origin", "Chikkaballapur"),
         ("Education", "BE - ECE"),
         ("Status", "Learning AWS, Docker etc"),
         ("ToolChain", "VS Code, Git, PyCharm, Postman"),
-        ("Core.Lang", "English, Kannada, Hindi, Telugu"),
+        ("Core.Lang", "C, Python, java(Core)"),
         ("Core.Frontend", "HTML, CSS, JavaScript"),
         ("Core.Backend", "Python, Django, DRF"),
         ("Core.Database", "MySQL, Postgres"),
