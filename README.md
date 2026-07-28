@@ -1,188 +1,64 @@
-<div align="center">
+<!-- ========================================== -->
+<!-- ABHISHEK R - ANIMATED GITHUB PROFILE README -->
+<!-- ========================================== -->
 
-![](https://komarev.com/ghpvc/?username=Abhi3468&label=Profile%20Views&color=0e75b6&style=flat)
+<!-- PHASE 1: ANIMATED BANNER (Theme-Aware) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abhi3468/Abhi3468/main/dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Abhi3468/Abhi3468/main/light.svg" />
+  <img src="https://raw.githubusercontent.com/Abhi3468/Abhi3468/main/dark.svg" alt="Abhishek R - Profile Banner" width="100%" />
+</picture>
 
-# Hi , I'm Abhishek R
+<br /><br />
 
-### Software Engineer @ Tata Consultancy Services (TCS)
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&color=00B4D8&center=true&vCenter=true&width=700&lines=Software+Engineer+at+TCS;Python+Backend+Developer;Building+Projects+with+Django;Learning+Backend+Engineering+Everyday" alt="Typing SVG" />
-
-</div>
-
----
-
-# 👨‍💻 About Me
-
-I'm a **Software Engineer** at **Tata Consultancy Services (TCS)** with **2 years of professional experience** working in the **Banking Domain**.
-
-Currently, I'm transitioning into **Python Backend Development** by building real-world applications using **Python, Django, Django REST Framework, PostgreSQL, SQL, and REST APIs**.
-
-I enjoy learning by building projects, solving backend problems, and continuously improving my software engineering skills.
-
----
-
-# 🚀 Current Focus
-
-- 🔹 Python Backend Development
-- 🔹 Django & Django REST Framework
-- 🔹 PostgreSQL & SQL
-- 🔹 REST API Development
-- 🔹 Docker (Learning)
-- 🔹 AWS Fundamentals (Learning)
-- 🔹 Java DSA
-
----
-
-# 🛠 Tech Stack
-
-## Backend
-
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-<img src="https://img.shields.io/badge/Django%20REST%20Framework-red?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge"/>
-</p>
-
----
-
-## Programming Languages
-
-<p>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-</p>
-
----
-
-## Database
-
-<p>
-<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge"/>
-</p>
-
----
-
-## Tools
-
-<p>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-</p>
-
----
-
-# 🌟 Featured Projects
-
-## 🏦 Banking Management System
-
-**Tech Stack**
-
-- Python
-- Django
-- Django REST Framework
-- PostgreSQL
-- Docker
-
-### Features
-
-- Secure User Authentication
-- Banking Transactions
-- Loan Management
-- REST APIs
-- Responsive UI
-
-🔗 Repository
-
-
-<a href="https://github.com/Abhi3468/DKG_Bank_Full_Stack_Django">
-<img src="https://img.shields.io/badge/LINK-000000?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-
-
-## ✅ Todoify
-
-A modern Django Task Management Application.
-
-**Tech Stack**
-
-- Django
-- PostgreSQL
-- Docker
-
-🔗 Repository
-
-<a href="https://github.com/Abhi3468/Todo">
-<img src="https://img.shields.io/badge/LINK-000000?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-
-
-# 💼 Professional Experience
-
-**Software Engineer**
-
-**Tata Consultancy Services (TCS)**
-
-📍 Bengaluru, India
-
-**June 2024 – Present**
-
-### Responsibilities
-
-- Production Support
-- SQL Data Validation
-- Root Cause Analysis
-- Mainframe
-- Snowflake
-- Banking Domain
-- Incident Resolution
-
----
-
-# 📚 Currently Learning
-
-- Docker
-- AWS
-- System Design
-- Java DSA
-- Backend Architecture
-
----
-
-# 🌐 Connect With Me
-
+<!-- PHASE 4: SOCIAL BADGES (For-the-Badge Style, Spaced with &nbsp;&nbsp;) -->
 <p align="center">
-
-<a href="https://www.linkedin.com/in/abhishek-r-652915211">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Abhi3468">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://abhi3468.github.io/Portfolio/">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-
+  <a href="https://www.linkedin.com/in/abhishek-r-652915211/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:abhishekabhi.r.2001@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-0A101F?style=for-the-badge&logo=gmail&logoColor=10B981" alt="Email" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://abhi3468.github.io/Portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-0A101F?style=for-the-badge&logo=googlechrome&logoColor=A78BFA" alt="Portfolio" />
+  </a>
 </p>
 
----
+<br />
 
-<div align="center">
+<!-- PHASE 2: STATS CARDS (Self-Hosted on Vercel) -->
+<!-- 1. GitHub Streak Card (100% Width) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Abhi3468&theme=custom&background=0A101F&border=10B981&stroke=10B981&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=E2E8F0&currStreakNum=E2E8F0&sideNums=E2E8F0&dates=64748B&hide_border=false" />
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=Abhi3468&theme=custom&background=F8FAFC&border=059669&stroke=059669&ring=7C3AED&fire=7C3AED&currStreakLabel=7C3AED&sideLabels=0F172A&currStreakNum=0F172A&sideNums=0F172A&dates=64748B&hide_border=false" />
+  <img src="https://streak-stats.demolab.com?user=Abhi3468&theme=custom&background=0A101F&border=10B981&stroke=10B981&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=E2E8F0&currStreakNum=E2E8F0&sideNums=E2E8F0&dates=64748B&hide_border=false" alt="GitHub Streak Stats" width="100%" />
+</picture>
 
-### ⭐ Learning • Building • Growing ⭐
+<br /><br />
 
-Thanks for visiting my profile.
+<!-- 2. Side-by-Side Stats & Top Languages Cards (49% Width Each) -->
+<!-- Replace YOUR-VERCEL-INSTANCE with your actual deployed Vercel domain -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-abhi3468.vercel.app/api?username=Abhi3468&show_icons=true&hide_rank=true&bg_color=0A101F&border_color=10B981&title_color=A78BFA&text_color=E2E8F0&icon_color=10B981" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-abhi3468.vercel.app/api?username=Abhi3468&show_icons=true&hide_rank=true&bg_color=F8FAFC&border_color=059669&title_color=7C3AED&text_color=0F172A&icon_color=059669" />
+    <img src="https://github-readme-stats-abhi3468.vercel.app/api?username=Abhi3468&show_icons=true&hide_rank=true&bg_color=0A101F&border_color=10B981&title_color=A78BFA&text_color=E2E8F0&icon_color=10B981" alt="Abhishek's GitHub Stats" width="49%" />
+  </picture>
+  &nbsp;
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-abhi3468.vercel.app/api/top-langs/?username=Abhi3468&layout=compact&bg_color=0A101F&border_color=10B981&title_color=A78BFA&text_color=E2E8F0" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-abhi3468.vercel.app/api/top-langs/?username=Abhi3468&layout=compact&bg_color=F8FAFC&border_color=059669&title_color=7C3AED&text_color=0F172A" />
+    <img src="https://github-readme-stats-abhi3468.vercel.app/api/top-langs/?username=Abhi3468&layout=compact&bg_color=0A101F&border_color=10B981&title_color=A78BFA&text_color=E2E8F0" alt="Abhishek's Top Languages" width="49%" />
+  </picture>
+</p>
 
-Feel free to connect and collaborate.
+<br /><br />
 
-</div>
+<!-- PHASE 3: CONTRIBUTION SNAKE (Generated via GitHub Action) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abhi3468/Abhi3468/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Abhi3468/Abhi3468/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/Abhi3468/Abhi3468/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="100%" />
+</picture>
