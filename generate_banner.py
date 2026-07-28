@@ -371,7 +371,7 @@ def build_svg(dark_mode=True):
         ("Education", "BE - ECE"),
         ("Status", "Learning AWS, Docker etc"),
         ("ToolChain", "VS Code, Git, PyCharm, Postman"),
-        ("Core.Lang", "C, Python, java(Core)"),
+        ("Core.Lang", "C, Python, Java(Core)"),
         ("Core.Frontend", "HTML, CSS, JavaScript"),
         ("Core.Backend", "Python, Django, DRF"),
         ("Core.Database", "MySQL, Postgres"),

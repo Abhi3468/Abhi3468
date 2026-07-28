@@ -4399,8 +4399,8 @@
 </g>
 <g>
   <text x="490" y="150" class="txt-lbl">Role:</text>
-  <text x="542.5" y="150" class="dot-leader">. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . </text>
-  <text x="1130" y="150" text-anchor="end" class="txt-row" textLength="126" lengthAdjust="spacingAndGlyphs">System Engineer</text>
+  <text x="542.5" y="150" class="dot-leader">. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . </text>
+  <text x="1130" y="150" text-anchor="end" class="txt-row" textLength="184" lengthAdjust="spacingAndGlyphs">System Engineer at TCS</text>
 </g>
 <g>
   <text x="490" y="173" class="txt-lbl">Origin:</text>
@@ -4424,8 +4424,8 @@
 </g>
 <g>
   <text x="490" y="265" class="txt-lbl">Core.Lang:</text>
-  <text x="585.0" y="265" class="dot-leader">. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . </text>
-  <text x="1130" y="265" text-anchor="end" class="txt-row" textLength="260" lengthAdjust="spacingAndGlyphs">English, Kannada, Hindi, Telugu</text>
+  <text x="585.0" y="265" class="dot-leader">. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . </text>
+  <text x="1130" y="265" text-anchor="end" class="txt-row" textLength="176" lengthAdjust="spacingAndGlyphs">C, Python, Java(Core)</text>
 </g>
 <g>
   <text x="490" y="288" class="txt-lbl">Core.Frontend:</text>
