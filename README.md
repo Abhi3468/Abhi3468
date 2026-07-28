@@ -39,18 +39,17 @@
 <br /><br />
 
 <!-- 2. Side-by-Side Stats & Top Languages Cards (49% Width Each) -->
-<!-- Replace YOUR-VERCEL-INSTANCE with your actual deployed Vercel domain -->
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-abhi3468.vercel.app/api?username=Abhi3468&show_icons=true&hide_rank=true&bg_color=0A101F&border_color=10B981&title_color=A78BFA&text_color=E2E8F0&icon_color=10B981" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-abhi3468.vercel.app/api?username=Abhi3468&show_icons=true&hide_rank=true&bg_color=F8FAFC&border_color=059669&title_color=7C3AED&text_color=0F172A&icon_color=059669" />
-    <img src="https://github-readme-stats-abhi3468.vercel.app/api?username=Abhi3468&show_icons=true&hide_rank=true&bg_color=0A101F&border_color=10B981&title_color=A78BFA&text_color=E2E8F0&icon_color=10B981" alt="Abhishek's GitHub Stats" width="49%" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Abhi3468&show_icons=true&hide_rank=true&bg_color=0A101F&border_color=10B981&title_color=A78BFA&text_color=E2E8F0&icon_color=10B981" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Abhi3468&show_icons=true&hide_rank=true&bg_color=F8FAFC&border_color=059669&title_color=7C3AED&text_color=0F172A&icon_color=059669" />
+    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Abhi3468&show_icons=true&hide_rank=true&bg_color=0A101F&border_color=10B981&title_color=A78BFA&text_color=E2E8F0&icon_color=10B981" alt="Abhishek's GitHub Stats" width="49%" />
   </picture>
   &nbsp;
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-abhi3468.vercel.app/api/top-langs/?username=Abhi3468&layout=compact&bg_color=0A101F&border_color=10B981&title_color=A78BFA&text_color=E2E8F0" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-abhi3468.vercel.app/api/top-langs/?username=Abhi3468&layout=compact&bg_color=F8FAFC&border_color=059669&title_color=7C3AED&text_color=0F172A" />
-    <img src="https://github-readme-stats-abhi3468.vercel.app/api/top-langs/?username=Abhi3468&layout=compact&bg_color=0A101F&border_color=10B981&title_color=A78BFA&text_color=E2E8F0" alt="Abhishek's Top Languages" width="49%" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Abhi3468&layout=compact&bg_color=0A101F&border_color=10B981&title_color=A78BFA&text_color=E2E8F0" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Abhi3468&layout=compact&bg_color=F8FAFC&border_color=059669&title_color=7C3AED&text_color=0F172A" />
+    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Abhi3468&layout=compact&bg_color=0A101F&border_color=10B981&title_color=A78BFA&text_color=E2E8F0" alt="Abhishek's Top Languages" width="49%" />
   </picture>
 </p>
 
