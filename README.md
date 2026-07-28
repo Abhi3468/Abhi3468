@@ -4,9 +4,9 @@
 
 <!-- PHASE 1: ANIMATED BANNER (Theme-Aware) -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abhi3468/Abhi3468/main/dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Abhi3468/Abhi3468/main/light.svg" />
-  <img src="https://raw.githubusercontent.com/Abhi3468/Abhi3468/main/dark.svg" alt="Abhishek R - Profile Banner" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abhi3468/Abhi3468/master/dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Abhi3468/Abhi3468/master/light.svg" />
+  <img src="https://raw.githubusercontent.com/Abhi3468/Abhi3468/master/dark.svg" alt="Abhishek R - Profile Banner" width="100%" />
 </picture>
 
 <br /><br />
