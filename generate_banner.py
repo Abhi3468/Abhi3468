@@ -279,7 +279,23 @@ def build_svg(dark_mode=True):
     text_col = DARK_TEXT if dark_mode else LIGHT_TEXT
     muted_col = DARK_TEXT_MUTED if dark_mode else LIGHT_TEXT_MUTED
 
-    img = create_synthetic_headshot()
+    import os
+    photo_candidates = ["photo.png", "photo.jpg", "photo.jpeg", "profile.png", "profile.jpg"]
+    photo_path = None
+    for cand in photo_candidates:
+        if os.path.exists(cand):
+            photo_path = cand
+            break
+
+    if photo_path:
+        print(f"Loading custom user photo: {photo_path}")
+        user_img = Image.open(photo_path).convert("L")
+        # Center-crop head & shoulders aspect ratio if needed, then resize to grid
+        img = ImageOps.fit(user_img, (PORTRAIT_GRID_W, PORTRAIT_GRID_H), method=Image.Resampling.LANCZOS)
+    else:
+        print("No custom photo file found (photo.jpg / photo.png). Using default template portrait.")
+        img = create_synthetic_headshot()
+
     raw_dots = process_portrait(img, dark_mode=dark_mode)
 
     portrait_dots = []
